@@ -5,3 +5,4 @@ line 4 content
 line 5 content 5
 line 6 will conflict
 line 7 conflict with main
+line 8 conflict 2 with newfeature01
